@@ -199,7 +199,6 @@ public class WarGame {
                 System.out.println("player 2 won round"+j);
             }
             else {
-
                 switch( tiebreak()) {
 
                     case 1:
