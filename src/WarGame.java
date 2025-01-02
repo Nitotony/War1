@@ -198,7 +198,6 @@ public class WarGame {
                 player2.holdingcards.add(p2);
                 System.out.println("player 2 won round"+j);
             }
-
             else {
 
                 switch( tiebreak()) {
